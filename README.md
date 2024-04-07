@@ -11,3 +11,5 @@
 | dnsenum      | [dnsenum](https://github.com/fwaeytens/dnsenum.git)         |
 | Pipal        | [Pipal](https://github.com/digininja/pipal.git)             |
 | Lynis        | [Lynis](https://github.com/CISOfy/lynis.git)                |
+| UserFinder   | [UserFinder](https://github.com/mishakorzik/UserFinder.git)  |
+
